@@ -1,0 +1,17 @@
+NO
+- Adverse Food Events  -> ini lebih ke efek samping makanan sama kriminalitas
+- Agri-food CO2 emission dataset -> lebih ke wilayah ini punya makanan ini itu emisinya segini
+- food review test -> keknya bukan makanan, data donor
+
+BUAT DASAR
+- Food Waste -> angka food waste
+
+FOOD PREFENCES
+- Food choices -> food preferences, non indo, engga ada age, ada GPA
+- Food Preferences -> lengkap fiturnya, tapi dataset dikit 
+- Online Food Delivery Preferences-Bangalore region -> prefernsi tapi lebih ke snack atau desert dll
+
+FOOD WASTE/SUMBER MAKANAN
+- broklyn food waste -> daftar food waste serta detailnya, tapi keknya bukan di indo
+- 🍕Food Bank🏦of the World🌍-> negara ini makanan kesukaanya apa berdasarkan tahun, area, kayak inituh sumber makanan yang diproduksi
+
